@@ -1,0 +1,29 @@
+
+#bio {
+    font-family: 'Cinzel Decorative', cursive;
+    padding: 50px;
+    text-align: center;
+}
+h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+
+input
+{
+    background: grey;
+}
